@@ -38,5 +38,7 @@ const userAddress :addres={
   
 const present=userAddress?.address?.present ??'not present adderess'
 
-console.log(present)
+
+
+
 }
